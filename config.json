@@ -1,7 +1,7 @@
 {
   "ad_status": "on",
   "ad_network": "yandex",
-  "interstitial": 10,
+  "interstitial": 1,
   "yandex_banner_id": "demo-banner-yandex",
   "yandex_native_id": "demo-native-app-yandex",
   "yandex_interstitial_id": "demo-interstitial-yandex",
