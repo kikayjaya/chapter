@@ -1,0 +1,9 @@
+{
+  "ad_status": "on",
+  "ad_network": "yandex",
+  "interstitial": 2,
+  "yandex_banner_id": "demo_banner",
+  "yandex_native_id": "demo_native",
+  "yandex_interstitial_id": "demo_interstitial",
+  "chapter_terakhir": 10
+}
