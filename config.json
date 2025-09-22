@@ -6,5 +6,7 @@
   "yandex_native_id": "demo-native-app-yandex",
   "yandex_interstitial_id": "demo-interstitial-yandex",
   "yandex_appopen_id": "demo-appopenad-yandex",
-  "chapter_terakhir": 2
+  "chapter_terakhir": 10,
+  "rate": 1,
+  "app_url": "https://play.google.com/store/apps/details?id=easynotes.notes.notepad.notebook.privatenotes.note"
 }
